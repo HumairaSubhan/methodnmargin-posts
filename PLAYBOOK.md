@@ -5,11 +5,11 @@ Metricool brand id (blogId): 7266413 · timezone Asia/Riyadh
 
 ## Daily routine (what the scheduled run does)
 1. `git pull`. Read this file and `LOG.md`.
-2. Make sure a post is scheduled in Metricool for **today and tomorrow** (check `LOG.md` and Metricool `getScheduledPosts`). Create only what is missing, at most 2 per run.
-3. For each missing day: pick the product (alternate: the product NOT used the day before), pick a hook that is not yet in `LOG.md`, write `tools/post_YYYY-MM-DD.py` (copy the style of `tools/batch_2026-11-26.py`, `from lib import *`), run it → `posts/YYYY-MM-DD-<product>-<slug>.jpg`.
+2. **5 posts per day.** Daily slots (Asia/Riyadh): **10:00, 12:00, 14:00, 17:00, 19:00** (from Metricool best-time data). Make sure every slot of **tomorrow and the day after** has a post (check `LOG.md` and Metricool `getScheduledPosts`). Create only the missing slots (normally 5 per run, at most 10).
+3. For each missing slot: alternate products slot by slot (P, B, P, B, P one day, then B, P, B, P, B the next), pick a hook/feature that is not yet in `LOG.md` (all 5 posts of a day must use different features and different layouts), write `tools/batch_YYYY-MM-DD.py` with all the day's posts (copy the style of `tools/batch_2026-11-26.py`, `from lib import *`), run it → `posts/YYYY-MM-DD-<product>-<slug>.jpg`.
 4. Look at the rendered image (Read it) before publishing: no overlaps, no cut-off text, no text running off the edge, headline ≤ 2 lines, nothing repeated inside one image (e.g. the same number shown twice), every claim true (see facts below).
 5. Commit + push (`git -c push.negotiate=true push`). Image URL = `https://raw.githubusercontent.com/HumairaSubhan/methodnmargin-posts/main/posts/<file>.jpg`. Check it returns 200 with curl before scheduling.
-6. Schedule with Metricool `createScheduledPost`: network instagram, type POST, the image URL, caption, publicationDate `{dateTime:"YYYY-MM-DDT10:00:00", timezone:"Asia/Riyadh"}` (10:00 Riyadh = best slot from Metricool data; Sat/Sun are weaker, use 12:00 there). autoPublish true.
+6. Schedule with Metricool `createScheduledPost`: network instagram, type POST, the image URL, caption, publicationDate `{dateTime:"YYYY-MM-DDTHH:00:00", timezone:"Asia/Riyadh"}` at the slot time. autoPublish true.
 7. Add a line to `LOG.md`, commit, push.
 
 ## Hard rules
@@ -17,7 +17,7 @@ Metricool brand id (blogId): 7266413 · timezone Asia/Riyadh
 - Shop link `etsy.com/shop/MethodNMargins` printed on every image (use `cta()`), caption says "Link in bio".
 - Only real features (lists below). No prices (they change with sales). No "works on phone" claim for the Paycheck Planner.
 - 1080×1350 canvas (rendered at 2×), brand line "METHOD & MARGIN" at top, big Lora headline (≤ 2 lines, roughly ≤ 22 characters per line at 96px), Poppins for everything else, high contrast, large text.
-- Each post a different layout/hook from the last 7 in `LOG.md`. Mix formats: bold hook + mockup, relatable quote, "3 things", myth vs fact, before/after (text only, no fake data), checklist, single feature close-up, question post.
+- Each post a different layout/hook from the last 15 in `LOG.md`; reuse a feature only after 10+ days and then with a new angle. Mix formats: bold hook + mockup, relatable quote, "3 things", myth vs fact, before/after (text only, no fake data), checklist, single feature close-up, question post.
 - Paycheck Planner = navy `NV` + gold `GOLD` + cream `CRM`. Budget Planner = green `G`/`GD` + cream `BG` + lime `LIME` (clay `CL` accent ok).
 - Captions: 2–4 short lines, hook first, one emoji max per line, "🛒 Link in bio", 5–7 hashtags (#adhd #adhdadults + topic tags). Ask a question or "comment X" sometimes for engagement.
 
