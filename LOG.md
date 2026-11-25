@@ -1,8 +1,12 @@
 # Post log (newest last)
-| Date (10:00 Riyadh) | Product | Hook / format | File | Metricool |
+| Date / time (Riyadh) | Product | Hook / format | File | Metricool |
 |---|---|---|---|---|
-| 2026-11-26 | Paycheck | "Got paid Friday. Broke by Monday?" · bold hook + card + phone | posts/2026-11-26-paycheck-hook.jpg | scheduled #442016391 |
-| 2026-11-27 | Budget | "Your whole budget. One number." · hero close-up + chips | posts/2026-11-27-budget-one-number.jpg | scheduled #442016583 |
-| 2026-11-28 | Paycheck | "Money stuff piling up? Just do these 3." · next-steps card + 3 stat tiles | posts/2026-11-28-paycheck-next-3.jpg | scheduled #442016661 (12:00) |
-| 2026-11-29 | Budget | "Add to cart" vs "Let's check first" · quote style, afford + cool-off sheets | posts/2026-11-29-budget-impulse.jpg | scheduled #442016711 (12:00) |
-| 2026-11-30 | Paycheck | "No subscription. No account. No bank login." · checklist + laptop/phone | posts/2026-11-30-paycheck-pay-once.jpg | scheduled #442016771 |
+| 2026-11-26 10:00 | Paycheck | "Got paid Friday. Broke by Monday?" · bold hook + card + phone | posts/2026-11-26-paycheck-hook.jpg | scheduled #442016391 |
+| 2026-11-26 12:00 | Budget | "Bills sneaking up? Not anymore." · dark green, laptop bills calendar + tags | posts/2026-11-26-budget-bills.jpg | scheduled #442021471 |
+| 2026-11-26 14:00 | Paycheck | "The 'I'll think about it' list." · cream, cool-off sheet + 3 decision pills | posts/2026-11-26-paycheck-cooloff.jpg | scheduled #442021494 |
+| 2026-11-26 17:00 | Budget | "Small wins count." · light lime, text left + quote card, tilted phone right (no-spend streaks) | posts/2026-11-26-budget-nospend.jpg | scheduled #442021528 |
+| 2026-11-26 19:00 | Paycheck | "Watch your savings fill up." · navy, laptop goals jars + tag | posts/2026-11-26-paycheck-goals.jpg | scheduled #442021561 |
+| 2026-11-27 10:00 | Budget | "Your whole budget. One number." · hero close-up + chips | posts/2026-11-27-budget-one-number.jpg | scheduled #442016583 |
+| 2026-11-28 12:00 | Paycheck | "Money stuff piling up? Just do these 3." · next-steps card + 3 stat tiles | posts/2026-11-28-paycheck-next-3.jpg | scheduled #442016661 (12:00) |
+| 2026-11-29 12:00 | Budget | "Add to cart" vs "Let's check first" · quote style, afford + cool-off sheets | posts/2026-11-29-budget-impulse.jpg | scheduled #442016711 (12:00) |
+| 2026-11-30 10:00 | Paycheck | "No subscription. No account. No bank login." · checklist + laptop/phone | posts/2026-11-30-paycheck-pay-once.jpg | scheduled #442016771 |
