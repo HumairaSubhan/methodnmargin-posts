@@ -13,8 +13,8 @@ Metricool brand id (blogId): 7266413 · timezone Asia/Riyadh
 7. Add a line to `LOG.md`, commit, push.
 
 ## Pinterest (drives Etsy clicks; links are clickable there)
-- After scheduling each Instagram post, also schedule the SAME image as a Pinterest pin, 30 minutes later, network "pinterest", with pinterestData: boardId = numeric id of the board named exactly **"ADHD Budgeting"**, pinTitle (≤ 100 chars, keyword-rich, e.g. "ADHD Paycheck Planner: know what's safe to spend until payday"), pinLink = https://www.etsy.com/shop/MethodNMargins, pinNewFormat true; text = 1–2 plain sentences with keywords (no hashtags); mediaAltText describing the image.
-- To find the board id, send the pin with boardId "ADHD Budgeting": if it resolves, fine; if Metricool returns an error listing the available boards, use the id of "ADHD Budgeting". If that board does not exist yet, skip Pinterest for this run and say so in the summary. Never pin ADHD posts to the "Small Business ..." boards.
+- After scheduling each Instagram post, also schedule the SAME image as a Pinterest pin, 30 minutes later, network "pinterest", with pinterestData: boardId = **"1072560536196882359"** (the board "ADHD Budgeting."), pinTitle (≤ 100 chars, keyword-rich, e.g. "ADHD Paycheck Planner: know what's safe to spend until payday"), pinLink = https://www.etsy.com/shop/MethodNMargins, pinNewFormat true; text = 1–2 plain sentences with keywords (no hashtags); mediaAltText describing the image.
+- If Metricool says that board id is invalid, send boardId "ADHD Budgeting" once: the error lists the boards; use the id of the ADHD Budgeting board. Never pin ADHD posts to the "Small Business ..." boards.
 - Log pins in LOG.md with their Metricool id.
 
 ## Hard rules

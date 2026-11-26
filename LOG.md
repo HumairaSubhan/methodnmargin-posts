@@ -14,3 +14,20 @@
 | 2026-11-28 12:00 | Paycheck | "Money stuff piling up? Just do these 3." · next-steps card + 3 stat tiles | posts/2026-11-28-paycheck-next-3.jpg | scheduled #442016661 (12:00) |
 | 2026-11-29 12:00 | Budget | "Add to cart" vs "Let's check first" · quote style, afford + cool-off sheets | posts/2026-11-29-budget-impulse.jpg | scheduled #442016711 (12:00) |
 | 2026-11-30 10:00 | Paycheck | "No subscription. No account. No bank login." · checklist + laptop/phone | posts/2026-11-30-paycheck-pay-once.jpg | scheduled #442016771 |
+
+## Pinterest pins (board "ADHD Budgeting.", link to shop)
+| Date / time (Riyadh) | Image | Metricool |
+|---|---|---|
+| 2026-11-26 13:00 | posts/2026-11-26-paycheck-hook.jpg | pin #442832394 |
+| 2026-11-26 13:30 | posts/2026-11-26-budget-bills.jpg | pin #442832400 |
+| 2026-11-26 14:30 | posts/2026-11-26-paycheck-cooloff.jpg | pin #442832413 |
+| 2026-11-26 17:30 | posts/2026-11-26-budget-nospend.jpg | pin #442832557 |
+| 2026-11-26 19:30 | posts/2026-11-26-paycheck-goals.jpg | pin #442832654 |
+| 2026-11-27 10:30 | posts/2026-11-27-budget-one-number.jpg | pin #442833079 |
+| 2026-11-27 12:30 | posts/2026-11-27-paycheck-where-it-goes.jpg | pin #442833125 |
+| 2026-11-27 14:30 | posts/2026-11-27-budget-checkin.jpg | pin #442833166 |
+| 2026-11-27 17:30 | posts/2026-11-27-paycheck-catch-up.jpg | pin #442833176 |
+| 2026-11-27 19:30 | posts/2026-11-27-budget-make-it-yours.jpg | pin #442833429 |
+| 2026-11-28 12:30 | posts/2026-11-28-paycheck-next-3.jpg | pin #442833445 |
+| 2026-11-29 12:30 | posts/2026-11-29-budget-impulse.jpg | pin #442833463 |
+| 2026-11-30 10:30 | posts/2026-11-30-paycheck-pay-once.jpg | pin #442833561 |
