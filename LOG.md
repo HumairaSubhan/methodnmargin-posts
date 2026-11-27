@@ -18,6 +18,10 @@
 | 2026-11-28 19:00 | Budget | "I went over, so why even bother?" · dark green relatable quote + cropped overspending sheet + lime tag | posts/2026-11-28-budget-overspent.jpg | scheduled #443523686 |
 | 2026-11-29 12:00 | Budget | "Add to cart" vs "Let's check first" · quote style, afford + cool-off sheets | posts/2026-11-29-budget-impulse.jpg | scheduled #442016711 (12:00) |
 | 2026-11-30 10:00 | Paycheck | "No subscription. No account. No bank login." · checklist + laptop/phone | posts/2026-11-30-paycheck-pay-once.jpg | scheduled #442016771 |
+| 2026-11-29 10:00 | Paycheck | "Debt feels lighter with a date." · navy, left-aligned bold hook + laptop debts page + 2 tags | posts/2026-11-29-paycheck-debt-free-date.jpg | scheduled #444747893 |
+| 2026-11-29 14:00 | Paycheck | "Plan it before payday spends it." · cream, before/after text cards left + tilted plan phone right | posts/2026-11-29-paycheck-plan-spending.jpg | scheduled #444747909 |
+| 2026-11-29 17:00 | Budget | "Leftovers don't disappear." · light lime, wide envelopes card strip + tilted move-money sheet + dark tag (rollover) | posts/2026-11-29-budget-envelopes.jpg | scheduled #444747925 |
+| 2026-11-29 19:00 | Paycheck | "End of the month? Take five." · navy stat poster: giant gold "5" + 3-item checklist left, tilted review card + white quote card right | posts/2026-11-29-paycheck-monthly-review.jpg | scheduled #444747939 |
 
 ## Pinterest pins (board "ADHD Budgeting.", link to shop)
 | Date / time (Riyadh) | Image | Metricool |
@@ -39,3 +43,7 @@
 | 2026-11-28 14:30 | posts/2026-11-28-budget-subscriptions.jpg | pin #443523978 |
 | 2026-11-28 17:30 | posts/2026-11-28-paycheck-bills-per-paycheck.jpg | pin #443523988 |
 | 2026-11-28 19:30 | posts/2026-11-28-budget-overspent.jpg | pin #443524001 |
+| 2026-11-29 10:30 | posts/2026-11-29-paycheck-debt-free-date.jpg | pin #444748287 |
+| 2026-11-29 14:30 | posts/2026-11-29-paycheck-plan-spending.jpg | pin #444748302 |
+| 2026-11-29 17:30 | posts/2026-11-29-budget-envelopes.jpg | pin #444748310 |
+| 2026-11-29 19:30 | posts/2026-11-29-paycheck-monthly-review.jpg | pin #444748324 |
